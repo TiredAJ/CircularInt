@@ -1,0 +1,12 @@
+E:\non-UniWork\Libraries\CircularVals\Library\bin\Debug\net7.0\Circular.deps.json
+E:\non-UniWork\Libraries\CircularVals\Library\bin\Debug\net7.0\Circular.dll
+E:\non-UniWork\Libraries\CircularVals\Library\bin\Debug\net7.0\Circular.pdb
+E:\non-UniWork\Libraries\CircularVals\Library\obj\Debug\net7.0\Circular.csproj.AssemblyReference.cache
+E:\non-UniWork\Libraries\CircularVals\Library\obj\Debug\net7.0\Circular.GeneratedMSBuildEditorConfig.editorconfig
+E:\non-UniWork\Libraries\CircularVals\Library\obj\Debug\net7.0\Circular.AssemblyInfoInputs.cache
+E:\non-UniWork\Libraries\CircularVals\Library\obj\Debug\net7.0\Circular.AssemblyInfo.cs
+E:\non-UniWork\Libraries\CircularVals\Library\obj\Debug\net7.0\Circular.csproj.CoreCompileInputs.cache
+E:\non-UniWork\Libraries\CircularVals\Library\obj\Debug\net7.0\Circular.dll
+E:\non-UniWork\Libraries\CircularVals\Library\obj\Debug\net7.0\refint\Circular.dll
+E:\non-UniWork\Libraries\CircularVals\Library\obj\Debug\net7.0\Circular.pdb
+E:\non-UniWork\Libraries\CircularVals\Library\obj\Debug\net7.0\ref\Circular.dll
