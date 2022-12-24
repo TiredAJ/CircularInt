@@ -1,5 +1,8 @@
 # CircularInt
-Basically, it's a circular int datatype.
+Basically, it's a circular int datatype. For a CInt of 5 with a max of 6 and min of two, you can cycle through those values with the incrementer operator (++):
+
+5->6->2->3->4->5->6->2... onwards
+
 
 # Usage
 (taken from [wiki](https://github.com/TiredAJ/CircularInt/wiki/Where-to-start))
@@ -8,7 +11,8 @@ This library uses .NET 7.0, you might need this.
 
 With the library installed and the using Circular; in place, you can start using CInts.
 
-To start, you can initialise a CInt like:
+
+To start, you can initialise a CInt:
 
 Just the value
 ```C#
