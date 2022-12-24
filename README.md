@@ -11,19 +11,25 @@ With the library installed and the using Circular; in place, you can start using
 To start, you can initialise a CInt like:
 
 Just the value
-
+```C#
 //value
 CInt Val = new CInt(5);
-Just the boundaries
+```
 
+Just the boundaries
+```C#
 //maximum, minimum
 CInt Val = new CInt(10, 0);
-or all three
+```
 
+or all three
+```C#
 //value, maximum, minimum
 CInt Val = new CInt(5, 10, 0);
-To use it in the place of an int (such as an index for an array), you can cast it to an int and it should be usable
+```
 
+To use it in the place of an int (such as an index for an array), you can cast it to an int and it should be usable
+```C#
 string[] Names =
     {
         "Erin",
@@ -43,4 +49,6 @@ while (true)
     i++;
     Thread.Sleep(1500);
 }
-And there you go, hopefully that explains the basics of CInts
+```
+
+Hopefully that explains the basics of CInts
