@@ -1,5 +1,5 @@
 ﻿namespace Circular
-{
+{//hello
     public struct CInt : IConvertible
     {
         private int Value { get; set; }
