@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "n/5pSWB4RPkPO98ghrb7d8TBF2Xw3lxr27IZ49Guge4vWnJxlCSPmcuF4NIvdb1fLw2ztefM2mO2uXBHn2tyww==",
+  "dgSpecHash": "lVCvhwOJ/fR+R4Kh14Zo2ov5vlwQV827GrYqy8vA1tQIsEvtY4JqS6InaayTXvsHNeM86m6iVBQIl17Ln6ttAg==",
   "success": true,
-  "projectFilePath": "E:\\non-UniWork\\Libraries\\CircularVals\\Library\\CircularInt.csproj",
+  "projectFilePath": "E:\\GitHub\\CircularInt\\CircularInt.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

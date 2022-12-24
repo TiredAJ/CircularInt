@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\non-UniWork\\Libraries\\CircularVals\\Library\\CircularInt.csproj": {}
+    "E:\\GitHub\\CircularInt\\CircularInt.csproj": {}
   },
   "projects": {
-    "E:\\non-UniWork\\Libraries\\CircularVals\\Library\\CircularInt.csproj": {
+    "E:\\GitHub\\CircularInt\\CircularInt.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\non-UniWork\\Libraries\\CircularVals\\Library\\CircularInt.csproj",
+        "projectUniqueName": "E:\\GitHub\\CircularInt\\CircularInt.csproj",
         "projectName": "CircularInt",
-        "projectPath": "E:\\non-UniWork\\Libraries\\CircularVals\\Library\\CircularInt.csproj",
+        "projectPath": "E:\\GitHub\\CircularInt\\CircularInt.csproj",
         "packagesPath": "C:\\Users\\gecko\\.nuget\\packages\\",
-        "outputPath": "E:\\non-UniWork\\Libraries\\CircularVals\\Library\\obj\\",
+        "outputPath": "E:\\GitHub\\CircularInt\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

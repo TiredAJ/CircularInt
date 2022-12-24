@@ -10,3 +10,15 @@ E:\non-UniWork\Libraries\CircularVals\Library\obj\Debug\net7.0\CircularInt.dll
 E:\non-UniWork\Libraries\CircularVals\Library\obj\Debug\net7.0\refint\CircularInt.dll
 E:\non-UniWork\Libraries\CircularVals\Library\obj\Debug\net7.0\CircularInt.pdb
 E:\non-UniWork\Libraries\CircularVals\Library\obj\Debug\net7.0\ref\CircularInt.dll
+E:\GitHub\CircularInt\bin\Debug\net7.0\CircularInt.deps.json
+E:\GitHub\CircularInt\bin\Debug\net7.0\CircularInt.dll
+E:\GitHub\CircularInt\bin\Debug\net7.0\CircularInt.pdb
+E:\GitHub\CircularInt\obj\Debug\net7.0\CircularInt.csproj.AssemblyReference.cache
+E:\GitHub\CircularInt\obj\Debug\net7.0\CircularInt.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\CircularInt\obj\Debug\net7.0\CircularInt.AssemblyInfoInputs.cache
+E:\GitHub\CircularInt\obj\Debug\net7.0\CircularInt.AssemblyInfo.cs
+E:\GitHub\CircularInt\obj\Debug\net7.0\CircularInt.csproj.CoreCompileInputs.cache
+E:\GitHub\CircularInt\obj\Debug\net7.0\CircularInt.dll
+E:\GitHub\CircularInt\obj\Debug\net7.0\refint\CircularInt.dll
+E:\GitHub\CircularInt\obj\Debug\net7.0\CircularInt.pdb
+E:\GitHub\CircularInt\obj\Debug\net7.0\ref\CircularInt.dll
